@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prdev99.github.io/TypeScriptApp/static/css/main.f855e6bc.css",
-    "main.js": "/prdev99.github.io/TypeScriptApp/static/js/main.2f838698.js",
-    "static/js/787.56315ba9.chunk.js": "/prdev99.github.io/TypeScriptApp/static/js/787.56315ba9.chunk.js",
-    "index.html": "/prdev99.github.io/TypeScriptApp/index.html",
-    "main.f855e6bc.css.map": "/prdev99.github.io/TypeScriptApp/static/css/main.f855e6bc.css.map",
-    "main.2f838698.js.map": "/prdev99.github.io/TypeScriptApp/static/js/main.2f838698.js.map",
-    "787.56315ba9.chunk.js.map": "/prdev99.github.io/TypeScriptApp/static/js/787.56315ba9.chunk.js.map"
+    "main.css": "/TypeScriptApp/static/css/main.f855e6bc.css",
+    "main.js": "/TypeScriptApp/static/js/main.6f9cf2d2.js",
+    "static/js/787.56315ba9.chunk.js": "/TypeScriptApp/static/js/787.56315ba9.chunk.js",
+    "index.html": "/TypeScriptApp/index.html",
+    "main.f855e6bc.css.map": "/TypeScriptApp/static/css/main.f855e6bc.css.map",
+    "main.6f9cf2d2.js.map": "/TypeScriptApp/static/js/main.6f9cf2d2.js.map",
+    "787.56315ba9.chunk.js.map": "/TypeScriptApp/static/js/787.56315ba9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2f838698.js"
+    "static/js/main.6f9cf2d2.js"
   ]
 }
